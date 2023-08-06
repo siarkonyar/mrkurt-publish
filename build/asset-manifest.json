@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.030ccf39.css",
+    "main.js": "/static/js/main.771aa386.js",
+    "static/js/787.5bba90c8.chunk.js": "/static/js/787.5bba90c8.chunk.js",
+    "static/media/restaurant-equipments.jpeg": "/static/media/restaurant-equipments.0b3bce21bc4f92737fb9.jpeg",
+    "static/media/hotel-equipment.jpeg": "/static/media/hotel-equipment.b7ea20450559c4fc837a.jpeg",
+    "static/media/5de946cc4f.jpeg": "/static/media/5de946cc4f.8e3c125470b6b01fd5bb.jpeg",
+    "static/media/carousel-img.png": "/static/media/carousel-img.49e98fb4922be4a1f818.png",
+    "static/media/catering-equipment.png": "/static/media/catering-equipment.98cf34b20afcc2961677.png",
+    "static/media/Essential-Horeca-Equipment-and-Features-for-Cafe-Owners.jpeg": "/static/media/Essential-Horeca-Equipment-and-Features-for-Cafe-Owners.d1d25f85335a860416c9.jpeg",
+    "static/media/ChefsFavorites-in-Restaurants.jpeg": "/static/media/ChefsFavorites-in-Restaurants.ee8897e8a8c3f9ddae91.jpeg",
+    "static/media/commercial-kitchen-equipment.jpeg": "/static/media/commercial-kitchen-equipment.52953cc44d724bc1b34f.jpeg",
+    "static/media/paper-products.jpeg": "/static/media/paper-products.32eaabbbbd6b1eb420f4.jpeg",
+    "static/media/Popular-Horeca-Products-in-London.jpeg": "/static/media/Popular-Horeca-Products-in-London.678685fbfcb3d526f6f0.jpeg",
+    "static/media/coffee-shop-products.jpeg": "/static/media/coffee-shop-products.02cd9f6a0f1689b640ca.jpeg",
+    "static/media/Compostable-Kraft-Food-Boxes.jpeg": "/static/media/Compostable-Kraft-Food-Boxes.1869333f1bed307c681c.jpeg",
+    "static/media/Recyclable-Ripple-Wall-Takeaway-Coffee-Cups-Kraft.jpeg": "/static/media/Recyclable-Ripple-Wall-Takeaway-Coffee-Cups-Kraft.61ddc5707eb3786afa9c.jpeg",
+    "static/media/Colpac-Recyclable-Kraft-Microwavable-Soup-Cups.jpeg": "/static/media/Colpac-Recyclable-Kraft-Microwavable-Soup-Cups.6d156203f011c3e943b0.jpeg",
+    "static/media/Disposable-Wooden-Fork-Spoon-Knife.jpeg": "/static/media/Disposable-Wooden-Fork-Spoon-Knife.fefaca866a11b3e3042b.jpeg",
+    "static/media/logo.png": "/static/media/logo.51ea2e282192182301d0.png",
+    "static/media/woman-cook.png": "/static/media/woman-cook.4013cc19812d8c3d1415.png",
+    "static/media/banner1.png": "/static/media/banner1.11a7e160a1bc5e80c378.png",
+    "static/media/KaushanScript-Regular.ttf": "/static/media/KaushanScript-Regular.a668b3d996f7c50fb3fe.ttf",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/CompanyLogo.png": "/static/media/CompanyLogo.a9bb90e61c98793c94e5.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/banner3.png": "/static/media/banner3.570dd1e6aa9cdc0fbc75.png",
+    "static/media/banner2.png": "/static/media/banner2.fd495fbdd9cb29ae1696.png",
+    "static/media/banner5.png": "/static/media/banner5.b17b2d95d1d71597bf7d.png",
+    "static/media/banner4.png": "/static/media/banner4.fd24eaca76c248d0d6a4.png",
+    "static/media/Fontspring-DEMO-compilerplain-extrabold.otf": "/static/media/Fontspring-DEMO-compilerplain-extrabold.1f232bddb7e750c64b13.otf",
+    "index.html": "/index.html",
+    "main.030ccf39.css.map": "/static/css/main.030ccf39.css.map",
+    "main.771aa386.js.map": "/static/js/main.771aa386.js.map",
+    "787.5bba90c8.chunk.js.map": "/static/js/787.5bba90c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.030ccf39.css",
+    "static/js/main.771aa386.js"
+  ]
+}
