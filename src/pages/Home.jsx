@@ -20,130 +20,13 @@ import cardImage3 from '../assets/main-page/cards/import.png'
 import cardImage4 from '../assets/main-page/cards/help.png'
 import cardImage5 from '../assets/main-page/cards/headphones.png'
 import ProductGroup from '../components/ProductGroup';
-import productImg1 from '../assets/home/Colpac-Recyclable-Kraft-Microwavable-Soup-Cups.jpeg';
-import productImg2 from '../assets/home/Disposable-Wooden-Fork-Spoon-Knife.jpeg';
-import productImg3 from '../assets/home/Recyclable-Ripple-Wall-Takeaway-Coffee-Cups-Kraft.jpeg';
-import productImg4 from '../assets/home/Compostable-Kraft-Food-Boxes.jpeg';
 import blog1 from '../assets/home/ChefsFavorites-in-Restaurants.jpeg'
 import blog2 from '../assets/home/Essential-Horeca-Equipment-and-Features-for-Cafe-Owners.jpeg'
 import blog3 from '../assets/home/Popular-Horeca-Products-in-London.jpeg'
+import { products } from '../service/products'
 
 
 export default function Home() {
-	const products = [
-		{
-			id: 1,
-			productName: "Colpac Recyclable Kraft Microwavable Soup Cups 225ml : 8oz (Pack of 500)",
-			unitPrice: '5,00',
-			quantityPerUnit: "19boxes",
-			image: productImg1,
-		},
-		{
-			id: 2,
-			productName: "Disposable Wooden Fork Spoon Knife",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg2
-		},
-		{
-			id: 3,
-			productName: "Recyclable Ripple Wall Takeaway Coffee Cups Kraft 340ml : 12oz",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg3
-		},
-		{
-			id: 4,
-			productName: "Compostable Kraft Food Boxes",
-			unitPrice: '1,60',
-			quantityPerUnit: "19boxes",
-			image: productImg4
-		},
-		{
-			id: 1,
-			productName: "Colpac Recyclable Kraft Microwavable Soup Cups 225ml : 8oz (Pack of 500)",
-			unitPrice: '5,00',
-			quantityPerUnit: "19boxes",
-			image: productImg1,
-		},
-		{
-			id: 2,
-			productName: "Disposable Wooden Fork Spoon Knife",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg2
-		},
-		{
-			id: 3,
-			productName: "Recyclable Ripple Wall Takeaway Coffee Cups Kraft 340ml : 12oz",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg3
-		},
-		{
-			id: 4,
-			productName: "Compostable Kraft Food Boxes",
-			unitPrice: '1,60',
-			quantityPerUnit: "19boxes",
-			image: productImg4
-		},
-		{
-			id: 1,
-			productName: "Colpac Recyclable Kraft Microwavable Soup Cups 225ml : 8oz (Pack of 500)",
-			unitPrice: '5,00',
-			quantityPerUnit: "19boxes",
-			image: productImg1,
-		},
-		{
-			id: 2,
-			productName: "Disposable Wooden Fork Spoon Knife",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg2
-		},
-		{
-			id: 3,
-			productName: "Recyclable Ripple Wall Takeaway Coffee Cups Kraft 340ml : 12oz",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg3
-		},
-		{
-			id: 4,
-			productName: "Compostable Kraft Food Boxes",
-			unitPrice: '1,60',
-			quantityPerUnit: "19boxes",
-			image: productImg4
-		},
-		{
-			id: 1,
-			productName: "Colpac Recyclable Kraft Microwavable Soup Cups 225ml : 8oz (Pack of 500)",
-			unitPrice: '5,00',
-			quantityPerUnit: "19boxes",
-			image: productImg1,
-		},
-		{
-			id: 2,
-			productName: "Disposable Wooden Fork Spoon Knife",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg2
-		},
-		{
-			id: 3,
-			productName: "Recyclable Ripple Wall Takeaway Coffee Cups Kraft 340ml : 12oz",
-			unitPrice: '2,00',
-			quantityPerUnit: "19boxes",
-			image: productImg3
-		},
-		{
-			id: 4,
-			productName: "Compostable Kraft Food Boxes",
-			unitPrice: '1,60',
-			quantityPerUnit: "19boxes",
-			image: productImg4
-		},
-	]
 
 	return (
 		<div className='home'>
@@ -199,7 +82,7 @@ export default function Home() {
 
 			<div className='f8-background pt-4 pb-4'>
 				<Container>
-					<ProductGroup products={products} header={'Editors Choices'} productAmount={4} />
+					<ProductGroup products={products} header={'Editors Choices'} productAmount={8} />
 
 					<div className='pt-5 pb-5 row'>
 						<div className='col-12 col-lg-6 explore-now-text d-flex justify-content-center'>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.030ccf39.css",
-    "main.js": "/static/js/main.771aa386.js",
+    "main.css": "/static/css/main.7a04a531.css",
+    "main.js": "/static/js/main.7eb99d6a.js",
     "static/js/787.5bba90c8.chunk.js": "/static/js/787.5bba90c8.chunk.js",
     "static/media/restaurant-equipments.jpeg": "/static/media/restaurant-equipments.0b3bce21bc4f92737fb9.jpeg",
     "static/media/hotel-equipment.jpeg": "/static/media/hotel-equipment.b7ea20450559c4fc837a.jpeg",
@@ -31,12 +31,12 @@
     "static/media/banner4.png": "/static/media/banner4.fd24eaca76c248d0d6a4.png",
     "static/media/Fontspring-DEMO-compilerplain-extrabold.otf": "/static/media/Fontspring-DEMO-compilerplain-extrabold.1f232bddb7e750c64b13.otf",
     "index.html": "/index.html",
-    "main.030ccf39.css.map": "/static/css/main.030ccf39.css.map",
-    "main.771aa386.js.map": "/static/js/main.771aa386.js.map",
+    "main.7a04a531.css.map": "/static/css/main.7a04a531.css.map",
+    "main.7eb99d6a.js.map": "/static/js/main.7eb99d6a.js.map",
     "787.5bba90c8.chunk.js.map": "/static/js/787.5bba90c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.030ccf39.css",
-    "static/js/main.771aa386.js"
+    "static/css/main.7a04a531.css",
+    "static/js/main.7eb99d6a.js"
   ]
 }

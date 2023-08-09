@@ -22,7 +22,7 @@ export default function () {
 							<img className='img-fluid nav-logo' src={logo} alt='Logo' />
 						</Link>
 
-						<div className='text-white text-center h-100 d-md-inline-block d-none'>
+						<div className='text-white text-center h-100 d-md-inline-block d-none curved-text-container-outer'>
 							<div className="curved-text-container">
 								<svg width="400" height="200">
 									<path

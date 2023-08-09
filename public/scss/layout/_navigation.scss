@@ -5,6 +5,7 @@
 
 	.nav-logo {
 		width: 13rem;
+		transform: translate(-2rem,0);
 	}
 
 	.nav-inner {
@@ -53,15 +54,19 @@
 	align-items: center;
 	height: 200px;
 	margin-bottom: 20px;
-  }
-  
-  svg {
+}
+
+svg {
 	width: 400px;
-  }
-  
-  .curved-text {
+}
+
+.curved-text {
 	font-size: 24px;
 	fill: white;
 	text-anchor: middle;
 	dominant-baseline: middle;
-  }
+}
+
+.curved-text-container-outer{
+	transform: translate(1.8rem, 0);
+}
